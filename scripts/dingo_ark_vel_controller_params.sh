@@ -1,0 +1,1 @@
+export DINGO_CONFIG_EXTRAS=$(catkin_find dingo_cpr_ark_navigation config/dingo_control.yaml)
